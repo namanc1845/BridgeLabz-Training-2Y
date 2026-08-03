@@ -1,0 +1,1 @@
+import java.util.*;public class PerimeterRectangle{public static void main(String[]a){Scanner sc=new Scanner(System.in);double l=sc.nextDouble(),w=sc.nextDouble();System.out.println(2*(l+w));sc.close();}}

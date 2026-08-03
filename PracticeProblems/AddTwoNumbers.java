@@ -1,0 +1,1 @@
+import java.util.*;public class AddTwoNumbers{public static void main(String[]a){Scanner sc=new Scanner(System.in);int x=sc.nextInt(),y=sc.nextInt();System.out.println(x+y);sc.close();}}

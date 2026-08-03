@@ -1,0 +1,1 @@
+import java.util.*;public class KmToMiles{public static void main(String[]a){Scanner sc=new Scanner(System.in);double k=sc.nextDouble();System.out.println(k*0.621371);sc.close();}}
