@@ -1,1 +1,0 @@
-import java.util.*;public class AverageOfThree{public static void main(String[]a){Scanner sc=new Scanner(System.in);double x=sc.nextDouble(),y=sc.nextDouble(),z=sc.nextDouble();System.out.println((x+y+z)/3);sc.close();}}

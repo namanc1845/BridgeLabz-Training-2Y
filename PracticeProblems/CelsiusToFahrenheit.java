@@ -1,1 +1,0 @@
-import java.util.*;public class CelsiusToFahrenheit{public static void main(String[]a){Scanner sc=new Scanner(System.in);double c=sc.nextDouble();System.out.println((c*9/5)+32);sc.close();}}

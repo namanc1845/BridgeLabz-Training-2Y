@@ -1,1 +1,0 @@
-import java.util.*;public class SimpleInterest{public static void main(String[]a){Scanner sc=new Scanner(System.in);double p=sc.nextDouble(),r=sc.nextDouble(),t=sc.nextDouble();System.out.println((p*r*t)/100);sc.close();}}
